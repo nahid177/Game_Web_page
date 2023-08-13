@@ -18,7 +18,7 @@ nav{
     
     font-size: 30px;
     font-weight: 1000;
-    
+   
   
 } 
 .nav_spam{
@@ -32,7 +32,7 @@ nav{
 .nav_sec1{
     display: flex;
     align-items: center;
-    
+    gap: 10px;
 }
 .nav_sec2{
     display: flex;
@@ -450,10 +450,10 @@ background-clip: text;
     display: flex;   
     gap: 10px;
     width: 295px;
-height: 80px;
-flex-shrink: 0;
-border-radius: 50px;
-background: #FFF;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
 }
 
 .r15{
@@ -471,10 +471,10 @@ background: #FFF;
     display: flex;  
     gap: 10px;
     width: 299px;
-height: 80px;
-flex-shrink: 0;
-border-radius: 50px;
-background: #FFF;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
 }
 
 
@@ -482,10 +482,10 @@ background: #FFF;
     display: flex;  
     gap: 10px;
     width: 317px;
-height: 80px;
-flex-shrink: 0;
-border-radius: 50px;
-background: #FFF;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
 }
 
 
@@ -493,10 +493,10 @@ background: #FFF;
     display: flex;  
     gap: 10px;
     width: 244px;
-height: 80px;
-flex-shrink: 0;
-border-radius: 50px;
-background: #FFF;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
 }
 
 .r19{
@@ -507,4 +507,171 @@ background: #FFF;
     flex-shrink: 0;
     border-radius: 50px;
     background: #FFF;   
+}
+
+
+
+
+
+footer{
+    width: 1920px;
+    height: 636px;
+    flex-shrink: 0;
+    background: #0B0223;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   gap: 20px;
+    text-align: center;
+}
+
+.nav_spam1{
+    color:#FFF ;
+    color:rgb(160, 119, 198);
+
+}
+.nav_title1{
+    color:#FFF ;
+   
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.f_p_1{
+    display: flex;
+    gap: 60px;
+
+}
+.nav_same{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.p1{
+    color: #FFF;
+    
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.p2{
+    color: #FFF;
+
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+.p3{
+    color: #FFF;
+   
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;    
+}
+
+
+.p4{
+    color: #FFF;
+   
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+}
+
+
+.p5{
+    color: #FFF;
+   
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;    
+}
+
+
+.p6{
+    color: #FFF;
+   
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+}
+
+.f_s2_icon{
+    display: flex;
+    gap: 10px;
+}
+
+.f_end_div{
+    display: flex;
+    gap: 60px;
+}
+
+.fp1{
+    color: rgba(255, 255, 255, 0.60);
+    
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.fp2{
+    color: rgba(255, 255, 255, 0.60);
+   
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.fp3{
+    color: rgba(255, 255, 255, 0.60);
+    
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.fp4{
+    color: rgba(255, 255, 255, 0.60);
+  
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.fp5se{
+    color: rgba(255, 255, 255, 0.60);
+   
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
 }
